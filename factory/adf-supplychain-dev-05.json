@@ -1,0 +1,15 @@
+{
+	"name": "adf-supplychain-dev-05",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8f69f767-07d3-49f8-ab1f-d0fd4d95be8f",
+		"tenantId": "1a8d96c7-e919-430f-a0c6-3ac20df3d4d9"
+	}
+}
